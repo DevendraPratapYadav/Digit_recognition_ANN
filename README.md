@@ -13,8 +13,13 @@ Implementing Neural Network using Theano and SciKit-learn in Python for digit re
 
 ####NOTE
 The MNIST dataset files must be placed in the directory alongside "mnist.py" before running.
+
 These include : 
-> t10k-images-idx3-ubyte
+>t10k-images-idx3-ubyte
+
 >t10k-labels-idx1-ubyte
+
 >train-images-idx3-ubyte
+
 >train-labels-idx1-ubyte
+
